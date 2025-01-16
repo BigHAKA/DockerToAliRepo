@@ -19,5 +19,6 @@ xhofe/alist-aria2:latest
 cloudnas/clouddrive2
 shenxianmq/auto_symlink:latest
 amilys/embyserver:beta
+amilys/embyserver:latest
 nginx:latest
 htnanako/redir115:nginx
