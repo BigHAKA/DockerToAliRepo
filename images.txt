@@ -20,4 +20,4 @@ cloudnas/clouddrive2
 shenxianmq/auto_symlink:latest
 amilys/embyserver:beta
 nginx:latest
-
+htnanako/redir115:nginx
