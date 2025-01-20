@@ -22,3 +22,4 @@ amilys/embyserver:beta
 amilys/embyserver:latest
 nginx:latest
 htnanako/redir115:nginx
+jlesage/tinymediamanager
