@@ -19,7 +19,7 @@ xhofe/alist-aria2:latest
 cloudnas/clouddrive2
 shenxianmq/auto_symlink:latest
 amilys/embyserver:beta
-amilys/embyserver:4.8.11.0
+amilys/embyserver:latest
 nginx:latest
 htnanako/redir115:nginx
 jlesage/tinymediamanager
