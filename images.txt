@@ -14,14 +14,14 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 
-jxxghp/moviepilot:latest
+#jxxghp/moviepilot:latest
 xhofe/alist-aria2:latest
 cloudnas/clouddrive2
 shenxianmq/auto_symlink:latest
 amilys/embyserver:beta
 amilys/embyserver:latest
 nginx:latest
-htnanako/redir115:nginx
-jlesage/tinymediamanager
+#htnanako/redir115:nginx
+#jlesage/tinymediamanager
 youshandefeiyang/allinone:latest
 
