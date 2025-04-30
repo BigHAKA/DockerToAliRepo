@@ -1,12 +1,10 @@
 xhofe/alist-aria2:latest
 cloudnas/clouddrive2
 shenxianmq/auto_symlink:latest
-amilys/embyserver:beta
 amilys/embyserver:latest
 nginx:latest
 youshandefeiyang/allinone:latest
-#htnanako/redir115:nginx
-#jlesage/tinymediamanager
 #jxxghp/moviepilot:latest
+iyuucn/iyuuplus-dev:latest
 
 
