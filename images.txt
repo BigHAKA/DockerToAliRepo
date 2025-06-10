@@ -8,3 +8,4 @@ youshandefeiyang/allinone:latest
 iyuucn/iyuuplus-dev:latest
 jiangrui1994/cloudsaver:latest
 qdtoday/qd:latest
+
