@@ -7,3 +7,4 @@ nginx:latest
 youshandefeiyang/allinone:latest
 jxxghp/moviepilot:latest
 #qdtoday/qd:latest
+tsaridas/stremio-docker
