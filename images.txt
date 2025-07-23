@@ -6,3 +6,4 @@ nginx:latest
 youshandefeiyang/allinone:latest
 jxxghp/moviepilot:latest
 dreamacro/clash-meta
+
