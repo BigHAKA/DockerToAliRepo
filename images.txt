@@ -8,3 +8,4 @@ jxxghp/moviepilot:latest
 dreamacro/clash-meta
 openlistteam/openlist:latest
 
+
